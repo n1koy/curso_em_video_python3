@@ -1,4 +1,10 @@
-# Faça um algoritmo que leia o salario de um funcionario e mostre seu novo sálario com 15% de aumento
+""" Desafio 013:
+
+Problema: Faça um algoritmo que leia o salário de um funcionário
+          e mostre seu novo salário, com 15% de aumento.
+          
+Resolução do problema:
+"""
 
 funcionario = input('Digite o nome do funcionário: ')
 salario = float(input('Digite aqui o sálario do funcionário: R$'))
