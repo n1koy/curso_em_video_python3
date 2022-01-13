@@ -1,4 +1,10 @@
-# Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto
+""" Desafio 012:
+
+Problema: Faça um algoritmo que leia o preço de um produto e
+          mostre seu novo preço, com 5% de desconto.
+          
+Resolução do problema:
+"""
 
 prod = float(input(('Digite aqui o preço do produto: R$')))
 desc = (prod*5)/100
