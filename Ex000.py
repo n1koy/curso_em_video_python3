@@ -1,4 +1,4 @@
-""" Desafio 001
+""" Desafio 001 -
 
 Problema: Crie um programa que escreva "Olá mundo" na tela.
 
