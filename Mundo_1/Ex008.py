@@ -14,4 +14,4 @@ mi = m/1609
 yd = m*1.094
 ft = m*3.281
 inch = m*39.37
-print('A distância de {}m corresponde a: \n{}km\n{}cm\n{}mm\nConvertando para medidas EUA a distância de {}m corresponde a: \n{:.3f}mi\n{:.2f}yd\n{:.2f}ft\n{:.2f}inch'.format(m, km, cm, mm, m, mi, yd, ft, inch))
+print('A distância de {}m corresponde a: \n{}km\n{}cm\n{}mm\nConvertando para outras medidas a distância de {}m corresponde a: \n{:.3f}mi\n{:.2f}yd\n{:.2f}ft\n{:.2f}inch'.format(m, km, cm, mm, m, mi, yd, ft, inch))
