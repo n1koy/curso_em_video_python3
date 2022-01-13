@@ -1,3 +1,11 @@
+""" Desafio 006:
+
+Problema: Crie um algoritmo que leia um número e mostre o seu drobro,
+          triplo e raiz quadrada.
+          
+Resolução do problema:
+"""
+
 n1 = int(input('Digite um número: '))
 n2 = int(input('Digite outro número: '))
 s = n1+n2
