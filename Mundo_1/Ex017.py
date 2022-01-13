@@ -1,12 +1,11 @@
-# Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo.
-# Calcule e mostre o comprimento da hipotenusa.
+""" Desafio 017:
 
-# import math
-
-# catop = float(input('Digite o comprimento do cateto oposto de um triângulo retângulo: '))
-# catad = float(input('Digite o comprimentodo cateto adjacente de um triângulo retângulo: '))
-# hipot = math.hypot(catop, catad)
-# print('O comprimento da hipotenusa desse triângulo retângulo é {:.2f}'.format(hipot))
+Problema: Faça um programa que leia o comprimento do cateto oposto e
+          do cateto adjacente de um triângulo retângulo. Calcule e
+          mostre o comprimento da hipotenusa.
+          
+Resolução do problema:
+"""
 
 from math import hypot
 
