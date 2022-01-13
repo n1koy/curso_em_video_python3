@@ -1,4 +1,10 @@
-# Escreva um programa que leia um valor em metros e a exiba convertido em centimetros e milimetros
+""" Desafio 008:
+
+Problema: Escreva um programa que leia um valor em metros e o
+          exiba convertido em centímetros e milímetros.
+          
+Resolução do problema:
+"""
 
 m = float(input('Digite uma distância em metros: '))
 km = m/1000
