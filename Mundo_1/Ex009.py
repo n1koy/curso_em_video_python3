@@ -1,4 +1,10 @@
-# Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada
+""" Desafio 009:
+
+Problema: Faça um programa que leia um número Inteiro qualquer
+          e mostre na tela a sua tabuada.
+          
+Resolução do problema:
+"""
 
 n = int(input('Digite um número para ver sua tabuada: '))
 print('-' * 20)
