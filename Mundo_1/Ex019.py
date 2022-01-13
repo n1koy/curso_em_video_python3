@@ -15,4 +15,4 @@ al3 = input('Digite o nome do aluno: ')
 al4 = input('Digite o nome do aluno: ')
 lista = [al1,al2,al3,al4]
 sorteio = random.choice(lista)
-print('O aluno esoclhido foi o {}'.format(sorteio))
+print('O aluno esoclhido foi o(a) {}'.format(sorteio))
